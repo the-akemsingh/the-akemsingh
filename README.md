@@ -50,18 +50,6 @@ Here are some ideas to get you started:
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="background-color:white;"/> 
   </a> 
-  <a href="https://workers.cloudflare.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/35613884?s=200&v=4" alt="Cloudflare Workers" width="40" height="40"/> 
-  </a> 
-  <a href="https://hono.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://hono.dev/img/logo.svg" alt="Hono" width="40" height="40"/> 
-  </a> 
-  <a href="https://recoiljs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/51714798?s=200&v=4" alt="Recoil" width="40" height="40"/> 
-  </a> 
-  <a href="https://turborepo.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://avatars.githubusercontent.com/u/77273226?s=200&v=4" alt="Turborepo" width="40" height="40"/> 
-  </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-akemsingh&show_icons=true&locale=en&layout=compact" alt="the-akemsingh" /></p>
