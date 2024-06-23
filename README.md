@@ -2,8 +2,6 @@
 <h1 align="center">Hi, I'm Akemnoor Singh</h1>
 <h3 align="center">Software developer from India</h3>
 
-
-
 <!--
 **the-akemsingh/the-akemsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking for ** internship || Full time role || Freelance work **
 - 📫 How to reach me: **singhakem03@gmail.com**
 - ⚡ Fun fact: **The fears you don't face become your limit**
+-->
 
 # Technologies I Know
 
@@ -65,8 +64,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
--->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-akemsingh&show_icons=true&locale=en&layout=compact" alt="the-akemsingh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-akemsingh&show_icons=true&locale=en" alt="the-akemsingh" /></p>
