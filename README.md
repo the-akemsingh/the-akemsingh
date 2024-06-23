@@ -2,17 +2,13 @@
 <h1 align="center">Hi, I'm Akemnoor Singh</h1>
 <h3 align="center">Software developer from India</h3>
 
-<!--
-**the-akemsingh/the-akemsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently a college student 
 - 🌱 I’m currently learning **Full stack development and Solidity Development**
 - 👯 I’m looking for ** internship || Full time role || Freelance work **
 - 📫 How to reach me: **singhakem03@gmail.com**
 - ⚡ Fun fact: **The fears you don't face become your limit**
--->
+
 
 <div id="user-content-toc">
   <ul align="center">
