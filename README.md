@@ -1,4 +1,3 @@
-![masterhead](https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif)
 <h1 align="center">Hi, I'm Akemnoor Singh</h1>
 <h3 align="center">Software developer from India</h3>
 
