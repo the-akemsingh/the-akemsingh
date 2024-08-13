@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning **Full stack development and Solidity Development**
 - 👯 I’m looking for ** internship || Full time role || Freelance work **
 - 📫 How to reach me: **singhakem03@gmail.com**
-- ⚡ Fun fact: **The fears you don't face become your limit**
 
 
 <div id="user-content-toc">
