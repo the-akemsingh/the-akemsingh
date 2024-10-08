@@ -5,7 +5,6 @@
 - 🔭 I’m currently a college student 
 - 🌱 I’m currently learning **Full stack development and Solidity Development**
 - 👯 I’m looking for ** internship || Full time role || Freelance work **
-- 📫 How to reach me: **singhakem03@gmail.com**
 
 
 <div id="user-content-toc">
