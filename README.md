@@ -1,10 +1,5 @@
 <h1 align="center">Hi, I'm Akemnoor Singh</h1>
-<h3 align="center">Software developer from India</h3>
-
-
-- 🔭 I’m currently a college student 
-- 🌱 I’m currently learning **Full stack development and Solidity Development**
-- 👯 I’m looking for ** internship || Full time role || Freelance work **
+<h3 align="center">Software developer</h3>
 
 
 <div id="user-content-toc">
