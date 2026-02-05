@@ -15,7 +15,7 @@
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=the-akemsingh&show_icons=true&locale=en&layout=compact" alt="the-akemsingh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-akemsingh&show_icons=true&locale=en" alt="the-akemsingh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-akemsingh&" alt="the-akemsingh" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-akemsingh&show_icons=true&locale=en" alt="the-akemsingh" /></p> -->
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-akemsingh&" alt="the-akemsingh" /></p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=the-akemsingh&label=Profile%20views&color=0e75b6&style=flat" alt="the-akemsingh" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=the-akemsingh&label=Profile%20views&color=0e75b6&style=flat" alt="the-akemsingh" /> </p> -->
